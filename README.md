@@ -12,6 +12,7 @@ of multiple lines. Each line of the trace file corresponds to a memory access pe
 the program. Each line consists of two columns, which are space separated. First column
 lists whether the memory access is a read (R) or a write (W) operation. The second column
 reports the actual 48-bit memory address that has been accessed by the program.
+
 Here is a sample trace file.
 R 0x9cb3d40
 W 0x9cb3d40
